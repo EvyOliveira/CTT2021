@@ -2,6 +2,7 @@
 
 > 21 de janeiro ao dia 26 de janeiro. Aborda conteúdos desde variáveis, atribuição, operações matemáticas e lógicas, Infinity até objetos customizados.
 
+```js
 // Declare uma variavel com o nome variável.
 ?
 
@@ -80,18 +81,18 @@
 ?
 
 // Escreva o trecho de código para:
-Se o valor da variável imprime for true, o console imprime na tela a string "imprimi".
+// Se o valor da variável imprime for true, o console imprime na tela a string "imprimi".
 ?
 
 // Escreva o trecho de código para:
-Se o valor da variável x for maior ou igual a 5, o console imprime na tela a string "maior ou igual a 5". Caso contrário, imprime "menor que 5".
+// Se o valor da variável x for maior ou igual a 5, o console imprime na tela a string "maior ou igual a 5". Caso contrário, imprime "menor que 5".
 ?
 
 // Se o valor da variável numero for um número, o código retorna true. Caso contrário, retorna false.
 ?
 
 // Escreva o trecho de código para:
-Se o valor da variável idade for menor que 12, o console imprime na tela a string "criança". Se o valor da variável idade for maior ou igual a 12 e menor que 18, o console imprime na tela a string "adolescente". Se o valor da variável idade for maior ou igual a 18, o console imprime na tela a string "adulto".
+// Se o valor da variável idade for menor que 12, o console imprime na tela a string "criança". Se o valor da variável idade for maior ou igual a 12 e menor que 18, o console imprime na tela a string "adolescente". Se o valor da variável idade for maior ou igual a 18, o console imprime na tela a string "adulto".
 ?
 
 // Objeto customizado para validação de dia, mês e ano, considerando os anos bissextos.
@@ -102,3 +103,5 @@ Se o valor da variável idade for menor que 12, o console imprime na tela a stri
 
 // Código tratando sobre a data de nascimento do usuário utilizando getters e setters.
 ?
+
+```
