@@ -3,6 +3,7 @@
 > Engloba todo o conteúdo do módulo de Linguagem de Programação.
 
 ```js
+
 // Escreva uma função chamada diferenca que retorne a diferença de dois números. 
 ?
 
