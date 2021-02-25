@@ -1,6 +1,6 @@
 # Lista de Exercícios II
 
-> À partir do dia 28 de janeiro. lações de repetição e function são os assuntos que norteiam essa atividade. 
+> À partir do dia 28 de janeiro. Laços de repetição e function são os assuntos que norteiam essa atividade. 
 
 ```js
 
