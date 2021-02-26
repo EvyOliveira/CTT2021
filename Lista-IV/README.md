@@ -19,7 +19,11 @@ function mensagem (nome) {
 mensagem()
 
 // Item: Criar uma function que receba dois números por parâmetro [n1, n2], retornar a soma dos dois números e imprimir o valor retornado da função. Atribuir esta função para uma variável.
-?
+function Numeros (n1, n2) {
+	return n1 + n2
+}
+
+var funcao = Numeros()
 
 // Subitem 1: Se os dois valores forem do tipo Number, executar a subtração dos valores, retornar o resultado da subtração e imprimir o valor retornado da função.
 ?
