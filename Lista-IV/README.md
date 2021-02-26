@@ -27,4 +27,21 @@
 // Subitem 2: Se n> 0, então devemos imprimir o valor de n e chamar novamente a função funcaoRecursiva passando por parâmetro [n - 1].
 ?
 
+// Item: Criar uma function chamada fizzBuzzRecursivo que recebe um número n por parâmetro e executa a seguinte lógica:
+
+// Subitem 1: Se n <= 0, então retorna uma string 'Fim da execução'.
+?
+
+// Subitem 2: Se n for multíplo de 3, então imprimir a string 'Fizz' e chamar novamente a função fizzBuzzRecursivo passando por parâmetro [n - 1].
+?
+
+// Subitem 3: Se n for multíplo de 5, então imprimir a string 'Buzz' e chamar novamente a função fizzBuzzRecursivo passando por parâmetro [n - 1].
+?
+
+// Subitem 4: Se n for multíplo de 3 e multiplo de 5, então imprimir a string 'FizzBuzz' e chamar novamente a função fizzBuzzRecursivo passando por parâmetro [n - 1].
+?
+
+// Subitem 5: Se não for múltiplo de 3 e não for múltiplo de 5, então imprimir o valor de n e chamar novamente a função fizzBuzzRecursivo passando por parâmetro [n - 1].
+?
+
 ```
