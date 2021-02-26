@@ -5,10 +5,18 @@
 ```js
 
 // Criar uma function que imprima a string 'Hello Word!'.
-?
+function imprimaMensagem () {
+	console.log('Hello World')
+}
+imprimaMensagem()
 
 // Criar uma function que receba um parâmetro [nome] e imprima a string 'Hello' + o valor do parâmetro. 
-?
+var nome = 'Evelyn';
+
+function mensagem (nome) {
+	console.log('Hello ' + this.nome)
+}
+mensagem()
 
 // Item: Criar uma function que receba dois números por parâmetro [n1, n2], retornar a soma dos dois números e imprimir o valor retornado da função. Atribuir esta função para uma variável.
 ?
