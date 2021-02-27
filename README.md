@@ -9,4 +9,5 @@
 - Lista de Exercícios III: à partir do dia 23 de fevereiro. Aula de introdução ao JavaScript com foco em tipos de variáveis.
 - Lista de Exercícios IV: à partir do dia 24 de fevereiro com foco em funções síncronas. 
 - Lista de Exercícios V: à partir do dia 25 de fevereiro com foco em funções síncronas, de calculadora simples, desafio do número perfeito e números primos.
+- Lista de Exercícios VI: à partir do dia 26 de fevereiro. Exercícios sobre funções assíncronas com callback.
 - Lista de Exercícios da Apostila CTT 2021: engloba todo o conteúdo do módulo de Linguagem de Programação.
