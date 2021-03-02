@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://lh3.googleusercontent.com/proxy/uCeal9tCoTbdBbmU3BSIIVfsnY0Km5y5ZiteYhMszJA9YH1JLUIlqQ9fohXI0L3JP3K14zg7kbrWHmeHYWUxUjn7fy6_Ig1sEpcxRhiIlpuqMlUpPIGkCzV9xRqmRIEIUqyN9FuRN20MljudkGyuZOX1DeYNzQ" alt="Campinas Tech Talents" style="max-width:100%;">
 </div>
-
+</br>
 > Este repositório conterá as listas de exercícios passados em aula para resolução durante o Bootcamp de Node.js e API do Campinas Tech Talents 2021. 
 
 ## Relação de Listas de Exercícios
