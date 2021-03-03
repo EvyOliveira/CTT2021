@@ -13,4 +13,5 @@
 - Lista de Exercícios V: à partir do dia 25 de fevereiro com foco em funções síncronas, de calculadora simples, desafio do número perfeito e números primos.
 - Lista de Exercícios VI: à partir do dia 26 de fevereiro. Exercícios sobre funções assíncronas com callback.
 - Lista de Exercícios VII: à partir do dia 27 de fevereiro. Exercícios sobre promises, async/await, objetos, arrays bem como suas principais operações.
+- Lista de Exercícios VIII: à partir do dia 2 de março. Exercícios sobre a manipulação do Postman para criação de collections, variáveis de ambientes, subdiretórios e consultas com requisições.
 - Lista de Exercícios da Apostila CTT 2021: engloba todo o conteúdo do módulo de Linguagem de Programação.
