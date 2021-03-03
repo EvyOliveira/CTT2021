@@ -11,7 +11,7 @@
 
 // Item 3: Criar um subdiretório chamado "pessoas" que permita buscar os personagens.
 <div align="center">
-  <img src="3.png" alt="" style="max-width:100%;">
+  <img src="https://github.com/EvyOliveira/CTT2021/blob/74f303515649cd05c7c495bfe73ba3557e9862c4/Lista-VIII/3.png" alt="" style="max-width:100%;">
 </div>
 ```
 ```js
@@ -19,7 +19,7 @@
 // Não era necessário controlar a busca de nenhuma forma, mas é possível passar alguns parâmetros.
 
 <div align="center">
-  <img src="4.png" alt="" style="max-width:100%;">
+  <img src="https://github.com/EvyOliveira/CTT2021/blob/74f303515649cd05c7c495bfe73ba3557e9862c4/Lista-VIII/4.png" alt="" style="max-width:100%;">
 </div>
 ```
 ```js
@@ -27,13 +27,13 @@
 {{swapi}}starships
 
 <div align="center">
-  <img src="5.png" alt="" style="max-width:100%;">
+  <img src="https://github.com/EvyOliveira/CTT2021/blob/74f303515649cd05c7c495bfe73ba3557e9862c4/Lista-VIII/5.png" alt="" style="max-width:100%;">
 </div>
 ```
 ```js
 // Item 6: Criar 3 consultas para buscar as naves, por exemplo: "Death Star", "Millenium Falcon" e "X-wing".
 <div align="center">
-  <img src="6.png" alt="" style="max-width:100%;">
+  <img src="https://github.com/EvyOliveira/CTT2021/blob/74f303515649cd05c7c495bfe73ba3557e9862c4/Lista-VIII/6.png" alt="" style="max-width:100%;">
 </div>
 ```
 ```js
@@ -41,14 +41,14 @@
 {{swapi}}planets
 
 <div align="center">
-  <img src="7.png" alt="" style="max-width:100%;">
+  <img src="https://github.com/EvyOliveira/CTT2021/blob/74f303515649cd05c7c495bfe73ba3557e9862c4/Lista-VIII/7.png" alt="" style="max-width:100%;">
 </div>
 ```
 ```js
 // Item 8: Criar 3 consultas para buscar as naves, por exemplo: "Tatooine", "Alderaan" e "Hoth".
 
 <div align="center">
-  <img src="8.png" alt="" style="max-width:100%;">
+  <img src="https://github.com/EvyOliveira/CTT2021/blob/74f303515649cd05c7c495bfe73ba3557e9862c4/Lista-VIII/8.png" alt="" style="max-width:100%;">
 </div>
 
 ```
