@@ -1,6 +1,6 @@
-# Lista de Exercícios VI
+# Lista de Exercícios IX
 
-> À partir do dia 4 de março, onde assuntos abordados foram sobre Node.js 
+> À partir do dia 4 de março, onde assuntos abordados foram a prática de callback e arrow functions em Node.js.
 
 ```js
 
