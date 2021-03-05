@@ -15,4 +15,5 @@
 - Lista de Exercícios VII: à partir do dia 27 de fevereiro. Exercícios sobre promises, async/await, objetos, arrays bem como suas principais operações.
 - Lista de Exercícios VIII: à partir do dia 2 de março. Exercícios sobre a manipulação do Postman para criação de collections, variáveis de ambientes, subdiretórios e consultas com requisições.
 - Lista de Exercícios IX: à partir do dia 4 de março, onde assuntos abordados foram a prática de callback e arrow functions em Node.js.
+- Lista de Exercícios X: à partir do dia 3 de março. Nesta aula, fizemos um live code sobre callback e refatoração para arrow functions.
 - Lista de Exercícios da Apostila CTT 2021: engloba todo o conteúdo do módulo de Linguagem de Programação.
