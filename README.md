@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://lh3.googleusercontent.com/proxy/UzcpeTOn48C62aZN9fBBO0oFOxzhrS_-ls_dQENfbo4hG4ltxqOwdIgMZTzrIW9kUT35jVhtUuFGAXYB1sGleyUoOHlQJBPpRYNEwkkTN-FTV4Q_lgKV2sx9pCQrdgJOLyJ5wa23kAAqx9XUldrHTB-TGBdWDQ" alt="Campinas Tech Talents" style="max-width:100%;">
-</div>
-</br>
+# Campinas Tech Talents
+
 > Este repositório conterá as listas de exercícios passados em aula para resolução durante o Bootcamp de Node.js e API do Campinas Tech Talents 2021. 
 
 ## Relação de Listas de Exercícios
@@ -17,4 +15,5 @@
 - Lista de Exercícios IX: à partir do dia 4 de março, onde assuntos abordados foram a prática de callback e arrow functions em Node.js.
 - Lista de Exercícios X: à partir do dia 3 de março. Nesta aula, fizemos um live code sobre callback e refatoração para arrow functions.
 - Lista de Exercícios XI: à partir do dia 4 de março. Trabalhamos com live code manipulando arrays e suas operações.
+- Lista de Exercícios XII: à partir do dia 12 de março. A aula referente à essa Lista de Exercícios foi sobre API Rest.
 - Lista de Exercícios da Apostila CTT 2021: engloba todo o conteúdo do módulo de Linguagem de Programação.
