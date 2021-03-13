@@ -1,0 +1,67 @@
+openapi: 3.0.0
+info:
+  title: Alunos-paulo
+  version: 1.0.0
+servers:
+  - url: https://localhost:3000
+paths:
+  /alunos:
+    post:
+      tags:
+        - alunos
+      summary: Cadastrar um aluno no sistema
+      description: Cadastrar um aluno.
+      requestBody:
+        description: Dados do aluno.
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/aluno"
+      responses:
+        201:
+          description: Aluno foi cadastrado.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/aluno"
+        400:
+          description: Requisição inválida.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/erro"
+components:
+  schemas:
+    aluno:
+      type: object
+      required:
+        - nome
+        - idade
+        - id
+      properties:
+        nome:
+          type: string
+          description: Nome do aluno.
+          example: Maria
+        idade:
+          type: integer
+          minimum: 0
+          description: Idade do aluno.
+          example: 18
+        id:
+          type: string
+          readOnly: true
+          format: uuid
+          example: 4f3d05aa-0327-4cde-b240-39206393ed84
+    erro:
+      type: object
+      required:
+        - mensagem
+      properties:
+        mensagem:
+          type: string
+          description: Mensagem do erro.
+          example: "Requisição inválida"
+          
+          
+
