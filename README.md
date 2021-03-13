@@ -16,4 +16,5 @@
 - Lista de Exercícios X: à partir do dia 3 de março. Nesta aula, fizemos um live code sobre callback e refatoração para arrow functions.
 - Lista de Exercícios XI: à partir do dia 4 de março. Trabalhamos com live code manipulando arrays e suas operações.
 - Lista de Exercícios XII: à partir do dia 12 de março. A aula referente à essa Lista de Exercícios foi sobre API Rest.
+- Lista de Exercícios XIII: à partir do dia 12 de março. A aula referente à essa Lista de Exercícios foi sobre design de API, boas práticas de modelagem de APIs. 
 - Lista de Exercícios da Apostila CTT 2021: engloba todo o conteúdo do módulo de Linguagem de Programação.
